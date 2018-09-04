@@ -6,5 +6,5 @@
 ## import project, change some code in /graph-tinkerpop/myhomework.orientdb.Demo01,like orient path/username/pwd
 ## run Main 
 
-about web ui
+# about web ui
 ## you can try checkout graphexp  ,see https://github.com/bricaud/graphexp, this's a way to use gremlin by websoket/rest using Groovy
